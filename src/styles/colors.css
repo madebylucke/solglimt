@@ -1,0 +1,28 @@
+/* Custom color classes for the application */
+
+.bg-primary {
+  background-color: #323232;
+}
+
+.bg-secondary {
+  background-color: #424242; 
+}
+
+.bg-tertiary {
+  background-color: #595959;
+}
+
+/* Text color variants */
+.text-primary {
+  color: #fefefe; 
+}
+
+.text-secondary {
+  color: #424242; 
+}
+
+
+/* Border color variants */
+.border-primary {
+  border-color: #595959; /* Blue-500 */
+}
